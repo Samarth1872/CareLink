@@ -1,0 +1,9 @@
+{
+  "name": "careloop",
+  "version": "0.1.0",
+  "description": "CareLoop - chronic-care coordination prototype for ASHA workers and PHCs (demo data only)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "dependencies": { "express": "^4.19.2" },
+  "license": "MIT"
+}
